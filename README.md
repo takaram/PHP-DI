@@ -2,7 +2,7 @@
 layout: home
 ---
 
-[![](doc/img.png)](https://php-di.org/)
+[![](doc/img.svg)](https://php-di.org/)
 
 [![Downloads per months](https://img.shields.io/packagist/dm/PHP-DI/PHP-DI.svg?style=flat-square)](https://packagist.org/packages/PHP-DI/PHP-DI)
 [![Total downloads](https://img.shields.io/packagist/dt/PHP-DI/PHP-DI.svg?style=flat-square)](https://packagist.org/packages/PHP-DI/PHP-DI)
